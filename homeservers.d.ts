@@ -7,6 +7,8 @@ export type IHomeserver = {
   url: string;
   tags: ITag[];
   status: IStatus;
+  /** Response time in ms (low precision, e.g. rounded to 50ms). Only set when status is "online". */
+  responseTimeMs?: number;
 };
 
 export type IHomeservers = IHomeserver[];

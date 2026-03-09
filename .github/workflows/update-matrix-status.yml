@@ -24,7 +24,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: false
 
       - name: Update homeserver status and generate online list
         run: node scripts/update-matrix-status.mjs

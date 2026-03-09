@@ -14,6 +14,8 @@ on:
 jobs:
   update-status:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # required to push commits
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

@@ -72,13 +72,6 @@
     "responseTimeMs": 1300
   },
   {
-    "name": "Alternanet Serveur Matrix",
-    "url": "https://alternanet.fr",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
-  },
-  {
     "name": "amauryjoly.fr",
     "url": "https://matrix.amauryjoly.fr",
     "tags": [],
@@ -140,13 +133,6 @@
     "tags": [],
     "status": "online",
     "responseTimeMs": 700
-  },
-  {
-    "name": "Belgium Hackerspaces Matrix homeserver",
-    "url": "https://hackerspaces.be",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
   },
   {
     "name": "bendini20.net",
@@ -338,13 +324,6 @@
     "responseTimeMs": 600
   },
   {
-    "name": "chat.weho.st",
-    "url": "https://chat.weho.st",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
-  },
-  {
     "name": "chatlog.dk",
     "url": "https://chatlog.dk",
     "tags": [],
@@ -385,13 +364,6 @@
     "tags": [],
     "status": "online",
     "responseTimeMs": 1200
-  },
-  {
-    "name": "converser.eu",
-    "url": "https://converser.eu",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
   },
   {
     "name": "cornspace.su",
@@ -562,13 +534,6 @@
     "tags": [],
     "status": "online",
     "responseTimeMs": 900
-  },
-  {
-    "name": "Federated Networks Association homeserver",
-    "url": "https://feneas.org",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
   },
   {
     "name": "flc.world",
@@ -892,13 +857,6 @@
     "responseTimeMs": 1150
   },
   {
-    "name": "im.xoo.sh",
-    "url": "https://im.xoo.sh",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
-  },
-  {
     "name": "imagisphe.re",
     "url": "https://imagisphe.re",
     "tags": [],
@@ -988,13 +946,6 @@
     "tags": [],
     "status": "online",
     "responseTimeMs": 800
-  },
-  {
-    "name": "cutenessoverdose.com",
-    "url": "https://matrix.cutenessoverdose.com",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
   },
   {
     "name": "knightfallbr.com",
@@ -1228,13 +1179,6 @@
     "tags": [],
     "status": "online",
     "responseTimeMs": 1350
-  },
-  {
-    "name": "matrix.allmende.io",
-    "url": "https://matrix.allmende.io",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
   },
   {
     "name": "matrix.amvv.space",
@@ -2112,13 +2056,6 @@
     "responseTimeMs": 2550
   },
   {
-    "name": "matrix.xf5.eu",
-    "url": "https://matrix.xf5.eu",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
-  },
-  {
     "name": "matrixbox.de",
     "url": "https://matrix.matrixbox.de",
     "tags": [],
@@ -2466,25 +2403,11 @@
     "responseTimeMs": 850
   },
   {
-    "name": "Public Matrix homeserver from Russian Matrix community",
-    "url": "https://ru-matrix.org",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
-  },
-  {
     "name": "Public Polish Matrix homeserver",
     "url": "https://junta.pl",
     "tags": [],
     "status": "online",
     "responseTimeMs": 3450
-  },
-  {
-    "name": "Public server for Perth, Western Australia",
-    "url": "https://perthchat.org",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
   },
   {
     "name": "r4.fo",
@@ -2534,13 +2457,6 @@
     "tags": [],
     "status": "online",
     "responseTimeMs": 1550
-  },
-  {
-    "name": "robbinsa.me",
-    "url": "https://matrix.robbinsa.me",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
   },
   {
     "name": "rollenspiel.chat",
@@ -2916,13 +2832,6 @@
     "responseTimeMs": 1150
   },
   {
-    "name": "we2.ee",
-    "url": "https://we2.ee",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
-  },
-  {
     "name": "web3.foundation",
     "url": "https://matrix.web3.foundation",
     "tags": [],
@@ -2970,13 +2879,6 @@
     "tags": [],
     "status": "online",
     "responseTimeMs": 650
-  },
-  {
-    "name": "Yet another tchncs.de service",
-    "url": "https://tchncs.de",
-    "tags": [],
-    "status": "offline",
-    "failCount": 1
   },
   {
     "name": "yonse.org",

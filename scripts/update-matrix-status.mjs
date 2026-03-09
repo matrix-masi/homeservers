@@ -61,12 +61,17 @@ async function main() {
 
   const raw = readFileSync(HOMESERVERS_PATH, "utf8");
   const homeservers = JSON.parse(raw);
+  const toCheck = homeservers.filter((s) => s.status === "online" || s.status === "offline");
+  const deadCount = homeservers.length - toCheck.length;
   console.log(`Loaded ${homeservers.length} homeservers from ${HOMESERVERS_PATH}`);
-  console.log(`Checking each server at /_matrix/client/versions (timeout: ${REQUEST_TIMEOUT_MS / 1000}s, concurrency: ${CONCURRENCY})`);
+  if (deadCount > 0) {
+    console.log(`Skipping ${deadCount} dead server(s) (no longer checked)`);
+  }
+  console.log(`Checking ${toCheck.length} server(s) at /_matrix/client/versions (timeout: ${REQUEST_TIMEOUT_MS / 1000}s, concurrency: ${CONCURRENCY})`);
   console.log("");
 
   const statuses = await runInBatches(
-    homeservers,
+    toCheck,
     CONCURRENCY,
     async (server) => {
       const result = await checkServer(server.url);
@@ -79,31 +84,46 @@ async function main() {
       };
     },
     (batchIndex, totalBatches, checkedSoFar) => {
-      console.log(`\n[Batch ${batchIndex}/${totalBatches}] Checked ${checkedSoFar}/${homeservers.length} servers`);
+      console.log(`\n[Batch ${batchIndex}/${totalBatches}] Checked ${checkedSoFar}/${toCheck.length} servers`);
     }
   );
   console.log("");
 
   const failed = [];
   const responseTimes = [];
-  homeservers.forEach((server, i) => {
-    server.status = statuses[i].status;
-    if (statuses[i].status === "online") {
+  toCheck.forEach((server, i) => {
+    const status = statuses[i].status;
+    if (status === "online") {
+      server.status = "online";
+      delete server.failCount;
       server.responseTimeMs = statuses[i].responseTimeMs;
       if (statuses[i].responseTimeMs != null) responseTimes.push(statuses[i].responseTimeMs);
     } else {
+      const nextCount = (server.failCount ?? 0) + 1;
+      if (nextCount >= 12) {
+        server.status = "dead";
+        server.failCount = 12;
+      } else {
+        server.status = "offline";
+        server.failCount = nextCount;
+      }
       delete server.responseTimeMs;
-      failed.push({ name: server.name, url: server.url, error: statuses[i].result.error || `HTTP ${statuses[i].result.status}` });
+      if (server.status === "offline") {
+        failed.push({ name: server.name, url: server.url, error: statuses[i].result.error || `HTTP ${statuses[i].result.status}` });
+      }
     }
   });
 
   const onlineServers = homeservers.filter((s) => s.status === "online");
+  const offlineCount = homeservers.filter((s) => s.status === "offline").length;
+  const deadCountFinal = homeservers.filter((s) => s.status === "dead").length;
   const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
 
   console.log("");
   console.log("--- Summary ---");
   console.log(`Online:  ${onlineServers.length}`);
-  console.log(`Offline: ${homeservers.length - onlineServers.length}`);
+  console.log(`Offline: ${offlineCount}`);
+  console.log(`Dead:    ${deadCountFinal}`);
   console.log(`Total:   ${homeservers.length}`);
   console.log(`Duration: ${elapsed}s`);
   if (responseTimes.length > 0) {

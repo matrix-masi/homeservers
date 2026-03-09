@@ -22,7 +22,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "false"
+          cache: false
 
       - name: Add new homeserver from issue body
         env:

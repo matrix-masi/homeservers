@@ -1,0 +1,2564 @@
+[
+  {
+    "name": "2gather.community",
+    "url": "https://matrix.2gather.community",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "315172.ru",
+    "url": "https://315172.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "3x19.com",
+    "url": "https://3x19.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "4d2.org",
+    "url": "https://matrix.4d2.org",
+    "tags": [
+      "tech"
+    ],
+    "status": "online"
+  },
+  {
+    "name": "adachi.work",
+    "url": "https://chatserver.adachi.work",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "aipi.chat",
+    "url": "https://aipi.chat",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "akkariin.moe",
+    "url": "https://matrix.akkariin.moe",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "alhena.space",
+    "url": "https://alhena.space",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "allaine.cc",
+    "url": "https://matrix.allaine.cc",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "allhandsactive.org",
+    "url": "https://matrix.allhandsactive.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "Alternanet Serveur Matrix",
+    "url": "https://alternanet.fr",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "amauryjoly.fr",
+    "url": "https://matrix.amauryjoly.fr",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "anomalous.dev",
+    "url": "https://matrix.anomalous.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "anonlink.org",
+    "url": "https://anonlink.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "arcanus.ungleich.cloud",
+    "url": "https://arcanus.matrix.ungleich.cloud",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "archaeo.social",
+    "url": "https://matrix.archaeo.social",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "astra-dev.online",
+    "url": "https://matrix.astra-dev.online",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "augsburg.one",
+    "url": "https://augsburg.one",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "axessible.dev",
+    "url": "https://axessible.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "barotrauma.gsh-services.com",
+    "url": "https://barotrauma.gsh-services.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "Belgium Hackerspaces Matrix homeserver",
+    "url": "https://hackerspaces.be",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "bendini20.net",
+    "url": "https://matrix.bendini20.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "bimseln.de",
+    "url": "https://matrix.bimseln.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "bitcar.tel",
+    "url": "https://mtx.bitcar.tel",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "bitcoinlightningandcamembert.org",
+    "url": "https://bitcoinlightningandcamembert.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "bramen.org",
+    "url": "https://m.bramen.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "bruckbu.de",
+    "url": "https://matrix.rot1.bruckbu.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "bwinf.de",
+    "url": "https://synapse.bwinf.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "bytea.org",
+    "url": "https://matrix.bytea.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "calitabby.net",
+    "url": "https://matrix.calitabby.net",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "catgirl.cloud",
+    "url": "https://matrix.catgirl.cloud",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "chaostreff-osnabrueck.de",
+    "url": "https://matrix.chaostreff-osnabrueck.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chart.textiles.ru",
+    "url": "https://chart.textiles.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.281019.xyz",
+    "url": "https://chat.281019.xyz",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.3033.at",
+    "url": "https://chat.3033.at",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.bartho.org",
+    "url": "https://chat.bartho.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.beatty.family",
+    "url": "https://chat.beatty.family",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.djharty.myhome-server.de",
+    "url": "https://chat.djharty.myhome-server.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.gazeley.me",
+    "url": "https://chat.gazeley.me",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.marimoko.biz",
+    "url": "https://chat.marimoko.biz",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.minerva-archive.org",
+    "url": "https://chat.minerva-archive.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.nomeer.ru",
+    "url": "https://chat.nomeer.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.ooscom.de",
+    "url": "https://chat.ooscom.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.ottoclothing.in",
+    "url": "https://chat.ottoclothing.in",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.paltian.net",
+    "url": "https://chat.paltian.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.semantic.works",
+    "url": "https://matrix.chat.semantic.works",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.thorko.de",
+    "url": "https://chat.thorko.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.twistedxyz.org",
+    "url": "https://chat.twistedxyz.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chat.weho.st",
+    "url": "https://chat.weho.st",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "chatlog.dk",
+    "url": "https://chatlog.dk",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "chil.at",
+    "url": "https://matrix.chil.at",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "cloud.cyph.lol",
+    "url": "https://cloud.cyph.lol",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "coding-place.com",
+    "url": "https://matrix.coding-place.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "com.infocilla.fr",
+    "url": "https://com.infocilla.fr",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "conversence.com",
+    "url": "https://matrix.conversence.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "converser.eu",
+    "url": "https://converser.eu",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "cornspace.su",
+    "url": "https://matrix.cornspace.su",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "crafti-servi.com",
+    "url": "https://matrix.crafti-servi.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "cyconet.org",
+    "url": "https://matrix.cyconet.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "cydiralis.cc",
+    "url": "https://matrix.cydiralis.cc",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "cyrilsebek.cz",
+    "url": "https://cyrilsebek.cz",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "darkmoney.my",
+    "url": "https://darkmoney.my",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "ddhn324.ca",
+    "url": "https://matrix.ddhn324.ca",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "deck.sh",
+    "url": "https://matrix.deck.sh",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "definitionhub.com",
+    "url": "https://matrix.definitionhub.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "demo.etke.host",
+    "url": "https://matrix.demo.etke.host",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "depesche.brockenberg7.de",
+    "url": "https://depesche.brockenberg7.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "digitalprivacy.diy",
+    "url": "https://matrix.digitalprivacy.diy",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "discuss.online",
+    "url": "https://matrix.discuss.online",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "disnuts.ignorelist.com",
+    "url": "https://disnuts.ignorelist.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "docsbunker.duckdns.org",
+    "url": "https://docsbunker.duckdns.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "doorway.cblock.org",
+    "url": "https://doorway.cblock.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "ebhi.org",
+    "url": "https://matrix.ebhi.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "eishausener.de",
+    "url": "https://matrix.eishausener.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "element.in-tele.ru",
+    "url": "https://matrix.element.in-tele.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "element.senk0.com",
+    "url": "https://element.senk0.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "enter.ilonagabor.de",
+    "url": "https://enter.ilonagabor.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "eulentier.net",
+    "url": "https://eulentier.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "exarius.org",
+    "url": "https://exarius.org",
+    "tags": [
+      "tech"
+    ],
+    "status": "online"
+  },
+  {
+    "name": "f2a.space",
+    "url": "https://matrix.f2a.space",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "Federated Networks Association homeserver",
+    "url": "https://feneas.org",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "flc.world",
+    "url": "https://flc.world",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "floyd.dk",
+    "url": "https://matrix.floyd.dk",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "flying-snail-matrix.nsupdate.info",
+    "url": "https://flying-snail-matrix.nsupdate.info",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "fossi-chat.org",
+    "url": "https://matrix.fossi-chat.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "fotigy.yarnick.ru",
+    "url": "https://fotigy.yarnick.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "foundryenterprises.cc",
+    "url": "https://matrix.foundryenterprises.cc",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "frog.my-cdn.host",
+    "url": "https://frog.my-cdn.host",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "furryrefuge.com",
+    "url": "https://furryrefuge.com",
+    "tags": [
+      "furry"
+    ],
+    "status": "online"
+  },
+  {
+    "name": "g24.at",
+    "url": "https://matrix.g24.at",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "gamecom.ch",
+    "url": "https://gamecom.ch",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "gaube.chat",
+    "url": "https://gaube.chat",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "geanix.com",
+    "url": "https://matrix.geanix.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "geekoffice.net",
+    "url": "https://geekoffice.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "geeksrus.chat",
+    "url": "https://geeksrus.chat",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "gemeinsam.jetzt",
+    "url": "https://matrix.gemeinsam.jetzt",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "genericgaming.com",
+    "url": "https://matrix.genericgaming.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "ghillaz.zapto.org",
+    "url": "https://matrix-ghillaz.zapto.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "giacodesign.com",
+    "url": "https://giacodesign.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "glasgow.social",
+    "url": "https://glasgow.social",
+    "tags": [
+      "tech"
+    ],
+    "status": "online"
+  },
+  {
+    "name": "globulous.com",
+    "url": "https://matrix.globulous.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "gnulinux.club",
+    "url": "https://matrix.gnulinux.club",
+    "tags": [
+      "tech"
+    ],
+    "status": "online"
+  },
+  {
+    "name": "grayarea.org",
+    "url": "https://matrix.grayarea.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "grin.hu",
+    "url": "https://matrix.grin.hu",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "grips-it.de",
+    "url": "https://matrix.grips-edv.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "group.lt",
+    "url": "https://matrix.group.lt",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "guneman.tjokroisme.id",
+    "url": "https://guneman.tjokroisme.id",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "ha-services.de",
+    "url": "https://matrix-zx.ha-services.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "ha5kfu.hu",
+    "url": "https://matrix.ha5kfu.hu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "hadan.social",
+    "url": "https://matrix.hadan.social",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "hashi.sbs",
+    "url": "https://chatserver.hashi.sbs",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "hecosida.de",
+    "url": "https://matrix.hecosida.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "heiss.be",
+    "url": "https://matrix.heiss.be",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "henger.ddnss.org",
+    "url": "https://matrix.henger.ddnss.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "hermes-solutions.org",
+    "url": "https://hermes-solutions.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "heyevan.chat",
+    "url": "https://heyevan.chat",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "hillion.co.uk",
+    "url": "https://matrix.hillion.co.uk",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "hofmann.onl",
+    "url": "https://matrix.hofmann.onl",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "holonet.starwars.rocks",
+    "url": "https://holonet.starwars.rocks",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "home.tadris.de",
+    "url": "https://home.tadris.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "hot-chilli.im",
+    "url": "https://hot-chilli.im",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "hq.sysadmin.directory",
+    "url": "https://hq.sysadmin.directory",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "huntmatrix.ddns.net",
+    "url": "https://huntmatrix.ddns.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "idc.md",
+    "url": "https://matrix.idc.md",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "im.moec.top",
+    "url": "https://matrix.moec.top",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "im.vrpnet.org",
+    "url": "https://im.vrpnet.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "im.xoo.sh",
+    "url": "https://im.xoo.sh",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "imagisphe.re",
+    "url": "https://imagisphe.re",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "immercord.de",
+    "url": "https://immercord.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "intertalk.cbu.net",
+    "url": "https://intertalk.cbu.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "it-syndik.at",
+    "url": "https://matrix.it-syndik.at",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "itplatinum.net",
+    "url": "https://itplatinum.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "iw0hks.it",
+    "url": "https://matrix.iw0hks.it",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "jeve.rs",
+    "url": "https://matrix.jeve.rs",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "jkuklok.net",
+    "url": "https://matrix.jkuklok.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "jonasled.de",
+    "url": "https://matrix.jonasled.de",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "jukeluke.com",
+    "url": "https://matrix.jukeluke.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "kabelkollektiv.de",
+    "url": "https://matrix.kabelkollektiv.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "kadan.live",
+    "url": "https://matrix.kadan.live",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "kan3.me",
+    "url": "https://matrix.kan3.me",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "cutenessoverdose.com",
+    "url": "https://matrix.cutenessoverdose.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "knightfallbr.com",
+    "url": "https://matrix.knightfallbr.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "konjactw.dev",
+    "url": "https://matrix.konjactw.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "kotous.cz",
+    "url": "https://ssl.kotous.cz",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "kotov-develope.ru",
+    "url": "https://matrix.kotov-develope.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "ladiv.org",
+    "url": "https://matrix.ladiv.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "lain.computer",
+    "url": "https://matrix.lain.computer",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "lambanet.cc",
+    "url": "https://matrix.lambanet.cc",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "lanzengrube.myfritz.link",
+    "url": "https://lanzengrube.myfritz.link",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "launching.anuke.org",
+    "url": "https://launching.anuke.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "layova.dev",
+    "url": "https://matrix.layova.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "lekkerpraten.nl",
+    "url": "https://synapse.lekkerpraten.nl",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "lindstrom-aberg.se",
+    "url": "https://lindstrom-aberg.se",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "Linux User Group Novosibirsk",
+    "url": "https://matrix.sibnsk.net",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "linuxsec.eu",
+    "url": "https://matrix.linuxsec.eu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "lovesa.lt",
+    "url": "https://lovesa.lt",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "luch-kino.ru",
+    "url": "https://matrix.luch-kino.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "luisguerrero.net",
+    "url": "https://matrix.luisguerrero.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "m.edw.ai",
+    "url": "https://m.edw.ai",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "m.henary.de",
+    "url": "https://m.henary.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "m.modlabs.social",
+    "url": "https://m.modlabs.social",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "m.obshinaru.ru",
+    "url": "https://m.obshinaru.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "m.spacedump.se",
+    "url": "https://m.spacedump.se",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "magdeburg.jetzt",
+    "url": "https://chat.magdeburg.jetzt",
+    "tags": [
+      "tech"
+    ],
+    "status": "online"
+  },
+  {
+    "name": "markla.in",
+    "url": "https://matrix.markla.in",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "mat.dobiko.net",
+    "url": "https://mat.dobiko.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix-portal.meownas.fun",
+    "url": "https://matrix-portal.meownas.fun",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.00b1.ru",
+    "url": "https://matrix.00b1.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.0x09.de",
+    "url": "https://matrix.0x09.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.4development.com",
+    "url": "https://matrix.4development.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.abyle.org",
+    "url": "https://matrix.abyle.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.adviser.com",
+    "url": "https://matrix.adviser.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.ahmedmedia.uk",
+    "url": "https://matrix.ahmedmedia.uk",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.alfredolin.eu",
+    "url": "https://matrix.alfredolin.eu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.allmende.io",
+    "url": "https://matrix.allmende.io",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.amvv.space",
+    "url": "https://matrix.amvv.space",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.arya.dogcraft.de",
+    "url": "https://matrix.arya.dogcraft.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.b0t.at",
+    "url": "https://matrix.b0t.at",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.beachcom.org",
+    "url": "https://matrix.beachcom.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.blackynet.de",
+    "url": "https://matrix.blackynet.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.briannelson.dev",
+    "url": "https://matrix.briannelson.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.broodjeoogbal.net",
+    "url": "https://matrix.broodjeoogbal.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.c3re.de",
+    "url": "https://matrix.c3re.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.cansat.duckdns.org",
+    "url": "https://matrix.cansat.duckdns.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.castle-homeserver.org",
+    "url": "https://matrix.castle-homeserver.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.cixoelectronic.pl",
+    "url": "https://matrix.cixoelectronic.pl",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.crowconclave.dev",
+    "url": "https://matrix.crowconclave.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.csn.tu-chemnitz.de",
+    "url": "https://matrix.csn.tu-chemnitz.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.cyber4edu.org",
+    "url": "https://matrix.cyber4edu.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.cycasc.net",
+    "url": "https://matrix.cycasc.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.delaylama.de",
+    "url": "https://matrix.delaylama.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.digitalworld.global",
+    "url": "https://matrix.digitalworld.global",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.dinorawrr.com",
+    "url": "https://matrix.dinorawrr.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.dnix.de",
+    "url": "https://matrix.dnix.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.dstwre.sh",
+    "url": "https://matrix.dstwre.sh",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.ecsena.com",
+    "url": "https://matrix.ecsena.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.egonetix.de",
+    "url": "https://matrix.egonetix.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.enragedkodo.com",
+    "url": "https://matrix.enragedkodo.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.ergonaut.space",
+    "url": "https://matrix.ergonaut.space",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.espar.eu",
+    "url": "https://matrix.espar.eu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.etersoft.ru",
+    "url": "https://matrix.etersoft.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.etmx.dev",
+    "url": "https://matrix.etmx.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.ezumi.xyz",
+    "url": "https://matrix.ezumi.xyz",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.fayedollchat.com",
+    "url": "https://matrix.fayedollchat.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.flow-host.space",
+    "url": "https://matrix.flow-host.space",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.freedomlab.nyc",
+    "url": "https://matrix.freedomlab.nyc",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.friendattack.eu",
+    "url": "https://matrix.friendattack.eu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.frstgear.app",
+    "url": "https://matrix.frstgear.app",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.ganmon.org",
+    "url": "https://matrix.ganmon.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.gargs.co",
+    "url": "https://matrix.gargs.co",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.groet-infra.nl",
+    "url": "https://matrix.groet-infra.nl",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.gruppeheat.net",
+    "url": "https://matrix.gruppeheat.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.haringstad.com",
+    "url": "https://matrix.haringstad.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.hiabuto.net",
+    "url": "https://matrix.hiabuto.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.home-net.com.ua",
+    "url": "https://matrix.home-net.com.ua",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.intri.cat",
+    "url": "https://matrix.intri.cat",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.jeffcake.com",
+    "url": "https://matrix.jeffcake.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.jester-designs.com",
+    "url": "https://matrix.jester-designs.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.jones.dk",
+    "url": "https://matrix.jones.dk",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.joyboycloud.xyz",
+    "url": "https://matrix.joyboycloud.xyz",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.jq.mk",
+    "url": "https://matrix.jq.mk",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.jsalex.media",
+    "url": "https://matrix.jsalex.media",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.karebearqn.com",
+    "url": "https://matrix.karebearqn.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.kevinronceray.com",
+    "url": "https://matrix.kevinronceray.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.khajiit.de",
+    "url": "https://matrix.khajiit.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.kram.cab",
+    "url": "https://matrix.kram.cab",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.kultwiki.net",
+    "url": "https://matrix.kultwiki.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.l8x.cc",
+    "url": "https://matrix.l8x.cc",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.leturcq.bzh",
+    "url": "https://matrix.leturcq.bzh",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.lightmajenta.duckdns.org",
+    "url": "https://matrix.lightmajenta.duckdns.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.linuxrocker.com",
+    "url": "https://matrix.linuxrocker.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.lqvrent.com",
+    "url": "https://matrix.lqvrent.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.luanti.ru",
+    "url": "https://matrix.luanti.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.luisental.org",
+    "url": "https://matrix.luisental.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.madeindream.com",
+    "url": "https://matrix.madeindream.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.manifold13.com",
+    "url": "https://matrix.manifold13.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.mateocovacho.com",
+    "url": "https://matrix.mateocovacho.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.matmoa.eu",
+    "url": "https://matrix.matmoa.eu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.meissners.me",
+    "url": "https://matrix.meissners.me",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.mfek.org",
+    "url": "https://matrix.mfek.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.minz.moe",
+    "url": "https://matrix.minz.moe",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.miv2nir.me",
+    "url": "https://matrix.miv2nir.me",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.mjehosting.com",
+    "url": "https://matrix.mjehosting.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.mobile.care.dev.one4.cloud",
+    "url": "https://matrix.mobile.care.dev.one4.cloud",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.mpq.mpg.de",
+    "url": "https://matrix.mpq.mpg.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.muensterhack.de",
+    "url": "https://matrix.muensterhack.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.mxhdr.net",
+    "url": "https://matrix.mxhdr.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.nave.house",
+    "url": "https://matrix.nave.house",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.nbremond.net",
+    "url": "https://matrix.nbremond.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.ndlug.org",
+    "url": "https://matrix.ndlug.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.netzagentur.at",
+    "url": "https://matrix.netzagentur.at",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.newan.net",
+    "url": "https://matrix.newan.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.nightcity.lu",
+    "url": "https://matrix.nightcity.lu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.numenor.pt",
+    "url": "https://matrix.numenor.pt",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.nve.red",
+    "url": "https://matrix.nve.red",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.nxtman96.com",
+    "url": "https://matrix.nxtman96.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.override.nl",
+    "url": "https://matrix.override.nl",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.persch-api.de",
+    "url": "https://matrix.persch-api.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.pfalz-mail.de",
+    "url": "https://matrix.pfalz-mail.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.pk-web.de",
+    "url": "https://matrix.pk-web.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.portstuck.at",
+    "url": "https://matrix.portstuck.at",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.predikant.org",
+    "url": "https://matrix.predikant.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.privacymatters.cc",
+    "url": "https://matrix.privacymatters.cc",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.proxima.cx",
+    "url": "https://matrix.proxima.cx",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.pupper.dev",
+    "url": "https://matrix.pupper.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.pyrosec.is",
+    "url": "https://matrix.pyrosec.is",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.reiners.io",
+    "url": "https://matrix.reiners.io",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.ronin-legacy.fr",
+    "url": "https://matrix-federation.ronin-legacy.fr",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.rural-it.org",
+    "url": "https://matrix.rural-it.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.sandbox64.at",
+    "url": "https://matrix.sandbox64.at",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.shadowsquad.org",
+    "url": "https://matrix.shadowsquad.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.shredderfood.com",
+    "url": "https://matrix.shredderfood.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.small-net.net",
+    "url": "https://matrix.small-net.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.snct-gmbh.de",
+    "url": "https://matrix.snct-gmbh.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.someit.company",
+    "url": "https://matrix.someit.company",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.strongtownssteinbach.org",
+    "url": "https://matrix.strongtownssteinbach.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.studiofritzgnad.de",
+    "url": "https://matrix.studiofritzgnad.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.sysops.de",
+    "url": "https://matrix.sysops.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.taccon.com",
+    "url": "https://matrix.taccon.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "cutefunny.art",
+    "url": "https://matrix.cutefunny.art",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.tailsit.com",
+    "url": "https://matrix.tailsit.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.tensr.network",
+    "url": "https://matrix.tensr.network",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.texo-it.de",
+    "url": "https://matrix.texo-it.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.thebull.ru",
+    "url": "https://matrix.thebull.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.thepromisedlan.online",
+    "url": "https://matrix.thepromisedlan.online",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.thiemoo.at",
+    "url": "https://matrix.thiemoo.at",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.tjaardflix.de",
+    "url": "https://matrix.tjaardflix.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.totorocodes.fr",
+    "url": "https://matrix.totorocodes.fr",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.treff.top",
+    "url": "https://matrix.treff.top",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.viklunds.nu",
+    "url": "https://matrix.viklunds.nu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.vil.systems",
+    "url": "https://matrix.vil.systems",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.vinpre.de",
+    "url": "https://matrix.vinpre.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.voxvoltera.com",
+    "url": "https://matrix.voxvoltera.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.webdevelop.pro",
+    "url": "https://matrix.webdevelop.pro",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.webermarko.de",
+    "url": "https://matrix.webermarko.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.wiuma.de",
+    "url": "https://matrix.wiuma.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.wolfrevo.mywire.org",
+    "url": "https://matrix.wolfrevo.mywire.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.wolhuter.co.za",
+    "url": "https://matrix.wolhuter.co.za",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.wrede.ca",
+    "url": "https://matrix.wrede.ca",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.wrservices.link",
+    "url": "https://matrix.wrservices.link",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrix.xf5.eu",
+    "url": "https://matrix.xf5.eu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrixbox.de",
+    "url": "https://matrix.matrixbox.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrixchat.dev",
+    "url": "https://matrixchat.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matrixwith.me",
+    "url": "https://matrixwith.me",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "matsch.xyz",
+    "url": "https://matsch.xyz",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "mckinstry.ie",
+    "url": "https://mckinstry.ie",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "meant2be.me",
+    "url": "https://chat.meant2be.me",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "mechsploitation.org",
+    "url": "https://chat.mechsploitation.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "meet.inboxsys.net",
+    "url": "https://meet.inboxsys.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "mesnumeriques.fr",
+    "url": "https://mesnumeriques.fr",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "mint-system.ch",
+    "url": "https://matrix.mint-system.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "mistyttm.dev",
+    "url": "https://mistyttm.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "mrx.im",
+    "url": "https://matrix.mrx.im",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "msg.senkapopka.ru",
+    "url": "https://msg.senkapopka.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "mtix.dev",
+    "url": "https://mtix.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "mukedues.de",
+    "url": "https://matrix.mukedues.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "mymatrix79.xavierscave.trade",
+    "url": "https://mymatrix79.xavierscave.trade",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "nang.zom.im",
+    "url": "https://nang.zom.im",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "naumimatrix.hopto.org",
+    "url": "https://naumisynapse.hopto.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "nebendahl.eu",
+    "url": "https://nebendahl.eu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "net.savva-balashov.me",
+    "url": "https://net.savva-balashov.me",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "netauthority.org",
+    "url": "https://matrix.netauthority.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "netz.darknight-coffee.eu",
+    "url": "https://treff.darknight-coffee.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "netzkraefte.de",
+    "url": "https://matrix.netzkraefte.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "newtrisko.de",
+    "url": "https://matrix.newtrisko.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "nixfox.ca",
+    "url": "https://matrix.nixfox.ca",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "nnik.dev",
+    "url": "https://nnik.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "no.dustinthe.net",
+    "url": "https://no.dustinthe.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "nope.chat",
+    "url": "https://nope.chat",
+    "tags": [
+      "bridges"
+    ],
+    "status": "online"
+  },
+  {
+    "name": "obco.pro",
+    "url": "https://matrixchat.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "oblak.be",
+    "url": "https://matrix.oblak.be",
+    "tags": [
+      "bridges"
+    ],
+    "status": "online"
+  },
+  {
+    "name": "odev.pro",
+    "url": "https://asgard.odev.pro",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "ohnesorge.live",
+    "url": "https://ohnesorge.live",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "okkon.ddns.net",
+    "url": "https://okkon.ddns.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "otterobservatory.com",
+    "url": "https://matrix.otterobservatory.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "parlante.de",
+    "url": "https://matrix.parlante.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "pcriot.org",
+    "url": "https://pcriot.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "piratenpartei.ch",
+    "url": "https://matrix.piratenpartei.ch",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "pockets.buzz",
+    "url": "https://matrix.pockets.buzz",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "polkadot.builders",
+    "url": "https://matrix.polkadot.builders",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "polymake.org",
+    "url": "https://matrix.polymake.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "pony.cx",
+    "url": "https://pony.cx",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "poweron.dk",
+    "url": "https://matrix.poweron.dk",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "pramari.de",
+    "url": "https://matrix.pramari.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "pravdik.dev",
+    "url": "https://matrix.pravdik.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "pridelands-after-dark.com",
+    "url": "https://pridelands-after-dark.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "Privacy-centric Matrix Homeserver",
+    "url": "https://chat.privacytools.io",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "proclos.com",
+    "url": "https://proclos.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "progenitorfoundry.eu",
+    "url": "https://matrix.progenitorfoundry.eu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "pronostix.lu-cix.lu",
+    "url": "https://pronostix.lu-cix.lu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "Public Matrix homeserver from Russian Matrix community",
+    "url": "https://ru-matrix.org",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "Public Polish Matrix homeserver",
+    "url": "https://junta.pl",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "Public server for Perth, Western Australia",
+    "url": "https://perthchat.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "r4.fo",
+    "url": "https://matrix.r4.fo",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "radratten.de",
+    "url": "https://matrix.radratten.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "rankenste.in",
+    "url": "https://matrix.rankenste.in",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "rc.acidc0re.info",
+    "url": "https://rc.acidc0re.info",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "rebru.ch",
+    "url": "https://matrix.rebru.ch",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "riot.firechicken.net",
+    "url": "https://riot.firechicken.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "riot.linxx.net",
+    "url": "https://riot.linxx.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "robbinsa.me",
+    "url": "https://matrix.robbinsa.me",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "rollenspiel.chat",
+    "url": "https://rollenspiel.chat",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "rozekengineering.com",
+    "url": "https://matrix.rozekengineering.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "sabrinateenlich.win",
+    "url": "https://sabrinateenlich.win",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "sagebrushmesh.com",
+    "url": "https://matrix.sagebrushmesh.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "savemy.name",
+    "url": "https://matrix.savemy.name",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "saygex.xyz",
+    "url": "https://matrix.saygex.xyz",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "searchhub.vip",
+    "url": "https://app.searchhub.vip",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "secnd.me",
+    "url": "https://matrix.secnd.me",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "secure-channel.net",
+    "url": "https://secure-channel.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "secure-channel.net",
+    "url": "https://matrix.secure-channel.net",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "sekbaer.de",
+    "url": "https://matrix.sekbaer.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "serenityos.org",
+    "url": "https://serenityos.matrix.nwex.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "sergmatrix.duckdns.org",
+    "url": "https://sergmatrix.duckdns.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "Server of the Matrix project",
+    "url": "https://matrix.org",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "server.digitalesozialearbeit.de",
+    "url": "https://server.digitalesozialearbeit.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "server.matrix4ulm.de",
+    "url": "https://server.matrix4ulm.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "server2.ledsys.co.uk",
+    "url": "https://server2.ledsys.co.uk",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "slayer.network",
+    "url": "https://matrix.slayer.network",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "snowboardtechie.com",
+    "url": "https://matrix.snowboardtechie.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "socialnetwork24.com",
+    "url": "https://socialnetwork24.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "solidarmobil.de",
+    "url": "https://matrix.solidarmobil.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "space-bar.site",
+    "url": "https://matrix.space-bar.site",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "stax.la",
+    "url": "https://stax.la",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "stdint.com",
+    "url": "https://matrix.stdint.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "studentenzimmer.online",
+    "url": "https://mx.studentenzimmer.online",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "sutcliffe.xyz",
+    "url": "https://matrix.sutcliffe.xyz",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "swisstrix.ch",
+    "url": "https://swisstrix.ch",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "synapse.jing8956.com",
+    "url": "https://synapse.jing8956.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "synapse.migou.synology.me",
+    "url": "https://synapse.migou.synology.me",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "synapse.sa-chat.com",
+    "url": "https://synapse.sa-chat.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "synapse.sytes.net",
+    "url": "https://synapse.sytes.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "synapse.the-cryptolution.com",
+    "url": "https://synapse.the-cryptolution.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "synapse.xytes.net",
+    "url": "https://synapse.xytes.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "synod.im",
+    "url": "https://synod.im",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "tankernn.eu",
+    "url": "https://tankernn.eu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "tavrezsi.hu",
+    "url": "https://matrix.tavrezsi.hu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "tchncs.de",
+    "url": "https://matrix.tchncs.de",
+    "tags": [
+      "bridges"
+    ],
+    "status": "online"
+  },
+  {
+    "name": "tea-cats.co.uk",
+    "url": "https://tea-cats.co.uk",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "tedomum.net",
+    "url": "https://matrix.tedomum.net",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "tejat.net",
+    "url": "https://matrix.tejat.net",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "teraz.site",
+    "url": "https://teraz.site",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "test.mxcore.ru",
+    "url": "https://test.mxcore.ru",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "the-b.org",
+    "url": "https://matrix.the-b.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "thedagora.social",
+    "url": "https://thedagora.social",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "theflarf.com",
+    "url": "https://theflarf.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "therisingeagle.info",
+    "url": "https://chat.therisingeagle.info",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "thundercleess.org",
+    "url": "https://matrix.thundercleess.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "tok2.me",
+    "url": "https://matrix.tok2.me",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "toucaenroller.fr",
+    "url": "https://matrix.toucaenroller.fr",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "typelias.dev",
+    "url": "https://matrix.typelias.dev",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "unredacted.org",
+    "url": "https://matrix.unredacted.org",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "virtuallyinsane.me",
+    "url": "https://chat.virtuallyinsane.me",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "wachzwang.de",
+    "url": "https://matrix.wachzwang.de",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "we2.ee",
+    "url": "https://we2.ee",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "web3.foundation",
+    "url": "https://matrix.web3.foundation",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "wilywidgets.com",
+    "url": "https://wilywidgets.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "wolke7.freeit247.eu",
+    "url": "https://matrix.wolke7.freeit247.eu",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "worldethicaldataforum.org",
+    "url": "https://matrix.worldethicaldataforum.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "wrycn.cloud",
+    "url": "https://matrix.wrycn.cloud",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "x3f200c.hopto.org",
+    "url": "https://x3f200c.hopto.org",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "xradeon.com",
+    "url": "https://matrix.xradeon.com",
+    "tags": [],
+    "status": "offline"
+  },
+  {
+    "name": "Yet another tchncs.de service",
+    "url": "https://tchncs.de",
+    "tags": [],
+    "status": "online"
+  },
+  {
+    "name": "yonse.org",
+    "url": "https://matrix.yonse.org",
+    "tags": [],
+    "status": "offline"
+  }
+]

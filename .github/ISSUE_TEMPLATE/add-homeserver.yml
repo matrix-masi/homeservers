@@ -1,0 +1,37 @@
+name: Add new homeserver
+description: Request adding a new Matrix homeserver to the list. Status and response time are filled by a GitHub action.
+title: "[Add homeserver] "
+labels: ["homeserver"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        New entries are appended to `homeservers.json`. Server **status** and **response time** are added automatically by a GitHub action — do not include them.
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Display name of the homeserver (e.g. "example.com" or "My Community Server")
+      placeholder: "example.com"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Base URL of the homeserver (include https://)
+      placeholder: "https://matrix.example.com"
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: |
+        Comma-separated list, no spaces (e.g. `tech,furry`). Valid values: `nsfw`, `tech`, `furry`, `bridges`. Leave empty for no tags.
+      placeholder: "tech,furry"
+    validations:
+      required: false

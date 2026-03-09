@@ -1,0 +1,81 @@
+name: Add homeserver from issue
+
+on:
+  issues:
+    types: [opened]
+    # Only run for issues created with the "Add new homeserver" template (adds this label)
+    labels: ["homeserver"]
+
+jobs:
+  add-and-update-status:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "false"
+
+      - name: Add new homeserver from issue body
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: node scripts/add-homeserver-from-issue.mjs
+
+      - name: Update homeserver status and generate online list
+        run: node scripts/update-matrix-status.mjs
+
+      - name: Commit and push
+        id: push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add homeservers.json online-homeservers.json
+          if git diff --staged --quiet; then
+            echo "committed=false" >> $GITHUB_OUTPUT
+            echo "No changes to commit."
+          else
+            git commit -m "chore: add homeserver from #${{ github.event.issue.number }} and update status"
+            git push
+            echo "committed=true" >> $GITHUB_OUTPUT
+            echo "sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Comment on issue
+        if: success() && steps.push.outputs.committed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const body = issue.body || '';
+            const nameMatch = body.match(/\*\*Name\*\*\s*\n+([\s\S]*?)(?=\n\s*\*\*|$)/);
+            const urlMatch = body.match(/\*\*URL\*\*\s*\n+([\s\S]*?)(?=\n\s*\*\*|$)/);
+            const name = nameMatch ? nameMatch[1].trim() : 'the new server';
+            const url = urlMatch ? urlMatch[1].trim() : '';
+            const sha = '${{ steps.push.outputs.sha }}' || context.sha;
+            const commitUrl = `https://github.com/${context.repo.owner}/${context.repo.repo}/commit/${sha}`;
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `✅ **Homeserver added**\n\n**${name}** (\`${url}\`) has been appended to \`homeservers.json\` and the status/response time have been updated by the workflow.\n\nCommit: ${commitUrl}`
+            });
+
+      - name: Comment on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '❌ Adding the homeserver failed. Check the [workflow run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) for details.'
+            });

@@ -1,0 +1,7 @@
+blank_issues_enabled: false
+contact_links: []
+
+issue_templates:
+  - name: Add new homeserver
+    about: Request adding a new Matrix homeserver to the list
+    template: add-homeserver.yml

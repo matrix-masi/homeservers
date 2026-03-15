@@ -4,21 +4,21 @@
     "url": "https://matrix.2gather.community",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 450
   },
   {
     "name": "315172.ru",
     "url": "https://315172.ru",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 850
   },
   {
     "name": "3x19.com",
     "url": "https://3x19.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 900
+    "responseTimeMs": 250
   },
   {
     "name": "4d2.org",
@@ -27,98 +27,98 @@
       "tech"
     ],
     "status": "online",
-    "responseTimeMs": 1050
+    "responseTimeMs": 600
   },
   {
     "name": "adachi.work",
     "url": "https://chatserver.adachi.work",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1200
+    "responseTimeMs": 1100
   },
   {
     "name": "aipi.chat",
     "url": "https://aipi.chat",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1750
+    "responseTimeMs": 950
   },
   {
     "name": "akkariin.moe",
     "url": "https://matrix.akkariin.moe",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1300
+    "responseTimeMs": 900
   },
   {
     "name": "alhena.space",
     "url": "https://alhena.space",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 850
   },
   {
     "name": "allaine.cc",
     "url": "https://matrix.allaine.cc",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1750
+    "responseTimeMs": 1000
   },
   {
     "name": "allhandsactive.org",
     "url": "https://matrix.allhandsactive.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 850
   },
   {
     "name": "Alternanet Serveur Matrix",
     "url": "https://alternanet.fr",
     "tags": [],
     "status": "offline",
-    "failCount": 3
+    "failCount": 4
   },
   {
     "name": "amauryjoly.fr",
     "url": "https://matrix.amauryjoly.fr",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1850
+    "responseTimeMs": 1200
   },
   {
     "name": "anomalous.dev",
     "url": "https://matrix.anomalous.dev",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1600
+    "responseTimeMs": 900
   },
   {
     "name": "anonlink.org",
     "url": "https://anonlink.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2400
+    "responseTimeMs": 1550
   },
   {
     "name": "arcanus.ungleich.cloud",
     "url": "https://arcanus.matrix.ungleich.cloud",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2300
+    "responseTimeMs": 1550
   },
   {
     "name": "archaeo.social",
     "url": "https://matrix.archaeo.social",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 750
+    "responseTimeMs": 400
   },
   {
     "name": "astra-dev.online",
     "url": "https://matrix.astra-dev.online",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 750
+    "responseTimeMs": 500
   },
   {
     "name": "augsburg.one",
@@ -132,420 +132,420 @@
     "url": "https://axessible.dev",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 700
+    "responseTimeMs": 450
   },
   {
     "name": "barotrauma.gsh-services.com",
     "url": "https://barotrauma.gsh-services.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 700
+    "responseTimeMs": 450
   },
   {
     "name": "Belgium Hackerspaces Matrix homeserver",
     "url": "https://hackerspaces.be",
     "tags": [],
     "status": "offline",
-    "failCount": 3
+    "failCount": 4
   },
   {
     "name": "bendini20.net",
     "url": "https://matrix.bendini20.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 700
   },
   {
     "name": "bimseln.de",
     "url": "https://matrix.bimseln.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1200
+    "responseTimeMs": 850
   },
   {
     "name": "bitcar.tel",
     "url": "https://mtx.bitcar.tel",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1100
+    "responseTimeMs": 800
   },
   {
     "name": "bitcoinlightningandcamembert.org",
     "url": "https://bitcoinlightningandcamembert.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 1050
   },
   {
     "name": "bramen.org",
     "url": "https://m.bramen.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 1050
   },
   {
     "name": "bruckbu.de",
     "url": "https://matrix.rot1.bruckbu.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 1250
   },
   {
     "name": "bwinf.de",
     "url": "https://synapse.bwinf.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1400
+    "responseTimeMs": 1300
   },
   {
     "name": "bytea.org",
     "url": "https://matrix.bytea.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1700
+    "responseTimeMs": 1750
   },
   {
     "name": "calitabby.net",
     "url": "https://matrix.calitabby.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1850
+    "responseTimeMs": 6800
   },
   {
     "name": "catgirl.cloud",
     "url": "https://matrix.catgirl.cloud",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 550
   },
   {
     "name": "chaostreff-osnabrueck.de",
     "url": "https://matrix.chaostreff-osnabrueck.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 950
+    "responseTimeMs": 600
   },
   {
     "name": "chart.textiles.ru",
     "url": "https://chart.textiles.ru",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1450
+    "responseTimeMs": 900
   },
   {
     "name": "chat.281019.xyz",
     "url": "https://chat.281019.xyz",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 800
+    "responseTimeMs": 1000
   },
   {
     "name": "chat.3033.at",
     "url": "https://chat.3033.at",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1000
+    "responseTimeMs": 750
   },
   {
     "name": "chat.bartho.org",
     "url": "https://chat.bartho.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1450
+    "responseTimeMs": 1500
   },
   {
     "name": "chat.beatty.family",
     "url": "https://chat.beatty.family",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 600
   },
   {
     "name": "chat.djharty.myhome-server.de",
     "url": "https://chat.djharty.myhome-server.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1850
+    "responseTimeMs": 1100
   },
   {
     "name": "chat.gazeley.me",
     "url": "https://chat.gazeley.me",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1400
+    "responseTimeMs": 1050
   },
   {
     "name": "chat.marimoko.biz",
     "url": "https://chat.marimoko.biz",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1800
+    "responseTimeMs": 1050
   },
   {
     "name": "chat.minerva-archive.org",
     "url": "https://chat.minerva-archive.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1750
+    "responseTimeMs": 1300
   },
   {
     "name": "chat.nomeer.ru",
     "url": "https://chat.nomeer.ru",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2550
+    "responseTimeMs": 2000
   },
   {
     "name": "chat.ooscom.de",
     "url": "https://chat.ooscom.de",
     "tags": [],
-    "status": "online",
-    "responseTimeMs": 2650
+    "status": "offline",
+    "failCount": 1
   },
   {
     "name": "chat.ottoclothing.in",
     "url": "https://chat.ottoclothing.in",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2700
+    "responseTimeMs": 2250
   },
   {
     "name": "chat.paltian.net",
     "url": "https://chat.paltian.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2700
+    "responseTimeMs": 2000
   },
   {
     "name": "chat.semantic.works",
     "url": "https://matrix.chat.semantic.works",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 900
+    "responseTimeMs": 450
   },
   {
     "name": "chat.thorko.de",
     "url": "https://chat.thorko.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1000
+    "responseTimeMs": 750
   },
   {
     "name": "chat.twistedxyz.org",
     "url": "https://chat.twistedxyz.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 950
+    "responseTimeMs": 750
   },
   {
     "name": "chat.weho.st",
     "url": "https://chat.weho.st",
     "tags": [],
     "status": "offline",
-    "failCount": 3
+    "failCount": 4
   },
   {
     "name": "chatlog.dk",
     "url": "https://chatlog.dk",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1350
+    "responseTimeMs": 900
   },
   {
     "name": "chil.at",
     "url": "https://matrix.chil.at",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1700
+    "responseTimeMs": 1250
   },
   {
     "name": "cloud.cyph.lol",
     "url": "https://cloud.cyph.lol",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 1050
   },
   {
     "name": "coding-place.com",
     "url": "https://matrix.coding-place.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1150
   },
   {
     "name": "com.infocilla.fr",
     "url": "https://com.infocilla.fr",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2050
+    "responseTimeMs": 1350
   },
   {
     "name": "conversence.com",
     "url": "https://matrix.conversence.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1600
+    "responseTimeMs": 1050
   },
   {
     "name": "converser.eu",
     "url": "https://converser.eu",
     "tags": [],
-    "status": "offline",
-    "failCount": 3
+    "status": "online",
+    "responseTimeMs": 1750
   },
   {
     "name": "cornspace.su",
     "url": "https://matrix.cornspace.su",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2800
+    "responseTimeMs": 1850
   },
   {
     "name": "crafti-servi.com",
     "url": "https://matrix.crafti-servi.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2200
+    "responseTimeMs": 1750
   },
   {
     "name": "cyconet.org",
     "url": "https://matrix.cyconet.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2400
+    "responseTimeMs": 2050
   },
   {
     "name": "cydiralis.cc",
     "url": "https://matrix.cydiralis.cc",
     "tags": [],
-    "status": "online",
-    "responseTimeMs": 2400
+    "status": "offline",
+    "failCount": 1
   },
   {
     "name": "cyrilsebek.cz",
     "url": "https://cyrilsebek.cz",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 800
+    "responseTimeMs": 900
   },
   {
     "name": "darkmoney.my",
     "url": "https://darkmoney.my",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 750
+    "responseTimeMs": 700
   },
   {
     "name": "ddhn324.ca",
     "url": "https://matrix.ddhn324.ca",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 350
+    "responseTimeMs": 200
   },
   {
     "name": "deck.sh",
     "url": "https://matrix.deck.sh",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 350
+    "responseTimeMs": 450
   },
   {
     "name": "definitionhub.com",
     "url": "https://matrix.definitionhub.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1200
+    "responseTimeMs": 1500
   },
   {
     "name": "demo.etke.host",
     "url": "https://matrix.demo.etke.host",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 800
+    "responseTimeMs": 900
   },
   {
     "name": "depesche.brockenberg7.de",
     "url": "https://depesche.brockenberg7.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1100
+    "responseTimeMs": 1150
   },
   {
     "name": "digitalprivacy.diy",
     "url": "https://matrix.digitalprivacy.diy",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 1300
   },
   {
     "name": "discuss.online",
     "url": "https://matrix.discuss.online",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1000
+    "responseTimeMs": 1100
   },
   {
     "name": "disnuts.ignorelist.com",
     "url": "https://disnuts.ignorelist.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1500
+    "responseTimeMs": 1600
   },
   {
     "name": "docsbunker.duckdns.org",
     "url": "https://docsbunker.duckdns.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1100
+    "responseTimeMs": 1200
   },
   {
     "name": "doorway.cblock.org",
     "url": "https://doorway.cblock.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1150
+    "responseTimeMs": 1500
   },
   {
     "name": "ebhi.org",
     "url": "https://matrix.ebhi.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 2000
   },
   {
     "name": "eishausener.de",
     "url": "https://matrix.eishausener.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1850
   },
   {
     "name": "element.in-tele.ru",
     "url": "https://matrix.element.in-tele.ru",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1900
+    "responseTimeMs": 2050
   },
   {
     "name": "element.senk0.com",
     "url": "https://element.senk0.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 300
+    "responseTimeMs": 250
   },
   {
     "name": "enter.ilonagabor.de",
     "url": "https://enter.ilonagabor.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 750
+    "responseTimeMs": 600
   },
   {
     "name": "eulentier.net",
     "url": "https://eulentier.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 550
   },
   {
     "name": "exarius.org",
@@ -554,70 +554,70 @@
       "tech"
     ],
     "status": "online",
-    "responseTimeMs": 1150
+    "responseTimeMs": 900
   },
   {
     "name": "f2a.space",
     "url": "https://matrix.f2a.space",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 950
+    "responseTimeMs": 750
   },
   {
     "name": "Federated Networks Association homeserver",
     "url": "https://feneas.org",
     "tags": [],
     "status": "offline",
-    "failCount": 3
+    "failCount": 4
   },
   {
     "name": "flc.world",
     "url": "https://flc.world",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1200
+    "responseTimeMs": 1050
   },
   {
     "name": "floyd.dk",
     "url": "https://matrix.floyd.dk",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1350
+    "responseTimeMs": 1950
   },
   {
     "name": "flying-snail-matrix.nsupdate.info",
     "url": "https://flying-snail-matrix.nsupdate.info",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1950
+    "responseTimeMs": 2350
   },
   {
     "name": "fossi-chat.org",
     "url": "https://matrix.fossi-chat.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1800
+    "responseTimeMs": 2450
   },
   {
     "name": "fotigy.yarnick.ru",
     "url": "https://fotigy.yarnick.ru",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2150
+    "responseTimeMs": 2650
   },
   {
     "name": "foundryenterprises.cc",
     "url": "https://matrix.foundryenterprises.cc",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1900
+    "responseTimeMs": 2400
   },
   {
     "name": "frog.my-cdn.host",
     "url": "https://frog.my-cdn.host",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2600
+    "responseTimeMs": 3000
   },
   {
     "name": "furryrefuge.com",
@@ -626,35 +626,35 @@
       "furry"
     ],
     "status": "online",
-    "responseTimeMs": 2750
+    "responseTimeMs": 3200
   },
   {
     "name": "g24.at",
     "url": "https://matrix.g24.at",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 3000
+    "responseTimeMs": 3350
   },
   {
     "name": "gamecom.ch",
     "url": "https://gamecom.ch",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 600
+    "responseTimeMs": 400
   },
   {
     "name": "gaube.chat",
     "url": "https://gaube.chat",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1150
+    "responseTimeMs": 700
   },
   {
     "name": "geanix.com",
     "url": "https://matrix.geanix.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1050
+    "responseTimeMs": 650
   },
   {
     "name": "geekoffice.net",
@@ -668,35 +668,35 @@
     "url": "https://geeksrus.chat",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 800
+    "responseTimeMs": 400
   },
   {
     "name": "gemeinsam.jetzt",
     "url": "https://matrix.gemeinsam.jetzt",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1500
+    "responseTimeMs": 1000
   },
   {
     "name": "genericgaming.com",
     "url": "https://matrix.genericgaming.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 900
+    "responseTimeMs": 550
   },
   {
     "name": "ghillaz.zapto.org",
     "url": "https://matrix-ghillaz.zapto.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1300
+    "responseTimeMs": 1050
   },
   {
     "name": "giacodesign.com",
     "url": "https://giacodesign.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1000
+    "responseTimeMs": 1050
   },
   {
     "name": "glasgow.social",
@@ -705,14 +705,14 @@
       "tech"
     ],
     "status": "online",
-    "responseTimeMs": 1750
+    "responseTimeMs": 1250
   },
   {
     "name": "globulous.com",
     "url": "https://matrix.globulous.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1350
+    "responseTimeMs": 1000
   },
   {
     "name": "gnulinux.club",
@@ -721,210 +721,210 @@
       "tech"
     ],
     "status": "online",
-    "responseTimeMs": 1400
+    "responseTimeMs": 1150
   },
   {
     "name": "grayarea.org",
     "url": "https://matrix.grayarea.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 1250
   },
   {
     "name": "grin.hu",
     "url": "https://matrix.grin.hu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2150
+    "responseTimeMs": 1600
   },
   {
     "name": "grips-it.de",
     "url": "https://matrix.grips-edv.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2400
+    "responseTimeMs": 1900
   },
   {
     "name": "group.lt",
     "url": "https://matrix.group.lt",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 850
+    "responseTimeMs": 550
   },
   {
     "name": "guneman.tjokroisme.id",
     "url": "https://guneman.tjokroisme.id",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 800
   },
   {
     "name": "ha-services.de",
     "url": "https://matrix-zx.ha-services.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1200
+    "responseTimeMs": 700
   },
   {
     "name": "ha5kfu.hu",
     "url": "https://matrix.ha5kfu.hu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 900
+    "responseTimeMs": 750
   },
   {
     "name": "hadan.social",
     "url": "https://matrix.hadan.social",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 750
   },
   {
     "name": "hashi.sbs",
     "url": "https://chatserver.hashi.sbs",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1050
+    "responseTimeMs": 900
   },
   {
     "name": "hecosida.de",
     "url": "https://matrix.hecosida.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1750
+    "responseTimeMs": 1150
   },
   {
     "name": "heiss.be",
     "url": "https://matrix.heiss.be",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1500
+    "responseTimeMs": 1150
   },
   {
     "name": "henger.ddnss.org",
     "url": "https://matrix.henger.ddnss.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2200
+    "responseTimeMs": 1550
   },
   {
     "name": "hermes-solutions.org",
     "url": "https://hermes-solutions.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2000
+    "responseTimeMs": 1400
   },
   {
     "name": "heyevan.chat",
     "url": "https://heyevan.chat",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1750
+    "responseTimeMs": 1150
   },
   {
     "name": "hillion.co.uk",
     "url": "https://matrix.hillion.co.uk",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2050
+    "responseTimeMs": 1450
   },
   {
     "name": "hofmann.onl",
     "url": "https://matrix.hofmann.onl",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2350
+    "responseTimeMs": 1800
   },
   {
     "name": "holonet.starwars.rocks",
     "url": "https://holonet.starwars.rocks",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2950
+    "responseTimeMs": 2000
   },
   {
     "name": "home.tadris.de",
     "url": "https://home.tadris.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 3000
+    "responseTimeMs": 2300
   },
   {
     "name": "hot-chilli.im",
     "url": "https://hot-chilli.im",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 950
+    "responseTimeMs": 800
   },
   {
     "name": "hq.sysadmin.directory",
     "url": "https://hq.sysadmin.directory",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 600
   },
   {
     "name": "huntmatrix.ddns.net",
     "url": "https://huntmatrix.ddns.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 550
   },
   {
     "name": "idc.md",
     "url": "https://matrix.idc.md",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1300
+    "responseTimeMs": 1000
   },
   {
     "name": "im.moec.top",
     "url": "https://matrix.moec.top",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 950
+    "responseTimeMs": 800
   },
   {
     "name": "im.vrpnet.org",
     "url": "https://im.vrpnet.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 1000
   },
   {
     "name": "im.xoo.sh",
     "url": "https://im.xoo.sh",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1400
+    "responseTimeMs": 1450
   },
   {
     "name": "imagisphe.re",
     "url": "https://imagisphe.re",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1350
   },
   {
     "name": "immercord.de",
     "url": "https://immercord.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1750
   },
   {
     "name": "intertalk.cbu.net",
     "url": "https://intertalk.cbu.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1850
+    "responseTimeMs": 1500
   },
   {
     "name": "it-syndik.at",
     "url": "https://matrix.it-syndik.at",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2300
+    "responseTimeMs": 1850
   },
   {
     "name": "itplatinum.net",
@@ -937,218 +937,218 @@
     "name": "iw0hks.it",
     "url": "https://matrix.iw0hks.it",
     "tags": [],
-    "status": "online",
-    "responseTimeMs": 2250
+    "status": "offline",
+    "failCount": 1
   },
   {
     "name": "jeve.rs",
     "url": "https://matrix.jeve.rs",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2750
+    "responseTimeMs": 2050
   },
   {
     "name": "jkuklok.net",
     "url": "https://matrix.jkuklok.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2550
+    "responseTimeMs": 2300
   },
   {
     "name": "jonasled.de",
     "url": "https://matrix.jonasled.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 850
+    "responseTimeMs": 700
   },
   {
     "name": "jukeluke.com",
     "url": "https://matrix.jukeluke.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 200
+    "responseTimeMs": 250
   },
   {
     "name": "kabelkollektiv.de",
     "url": "https://matrix.kabelkollektiv.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 450
   },
   {
     "name": "kadan.live",
     "url": "https://matrix.kadan.live",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 400
+    "responseTimeMs": 200
   },
   {
     "name": "kan3.me",
     "url": "https://matrix.kan3.me",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 450
+    "responseTimeMs": 500
   },
   {
     "name": "cuteness-overdose.com",
     "url": "https://cuteness-overdose.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1350
+    "responseTimeMs": 600
   },
   {
     "name": "knightfallbr.com",
     "url": "https://matrix.knightfallbr.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 850
+    "responseTimeMs": 600
   },
   {
     "name": "konjactw.dev",
     "url": "https://matrix.konjactw.dev",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 950
+    "responseTimeMs": 900
   },
   {
     "name": "kotous.cz",
     "url": "https://ssl.kotous.cz",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1150
+    "responseTimeMs": 1000
   },
   {
     "name": "kotov-develope.ru",
     "url": "https://matrix.kotov-develope.ru",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 1000
   },
   {
     "name": "ladiv.org",
     "url": "https://matrix.ladiv.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2200
+    "responseTimeMs": 1500
   },
   {
     "name": "lain.computer",
     "url": "https://matrix.lain.computer",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1950
+    "responseTimeMs": 1450
   },
   {
     "name": "lambanet.cc",
     "url": "https://matrix.lambanet.cc",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2000
+    "responseTimeMs": 1500
   },
   {
     "name": "lanzengrube.myfritz.link",
     "url": "https://lanzengrube.myfritz.link",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2350
+    "responseTimeMs": 1950
   },
   {
     "name": "launching.anuke.org",
     "url": "https://launching.anuke.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2000
+    "responseTimeMs": 1450
   },
   {
     "name": "layova.dev",
     "url": "https://matrix.layova.dev",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 600
+    "responseTimeMs": 500
   },
   {
     "name": "lekkerpraten.nl",
     "url": "https://synapse.lekkerpraten.nl",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 600
+    "responseTimeMs": 350
   },
   {
     "name": "lindstrom-aberg.se",
     "url": "https://lindstrom-aberg.se",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1000
+    "responseTimeMs": 700
   },
   {
     "name": "Linux User Group Novosibirsk",
     "url": "https://matrix.sibnsk.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1350
+    "responseTimeMs": 1550
   },
   {
     "name": "linuxsec.eu",
     "url": "https://matrix.linuxsec.eu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1050
+    "responseTimeMs": 700
   },
   {
     "name": "lovesa.lt",
     "url": "https://lovesa.lt",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 850
   },
   {
     "name": "luch-kino.ru",
     "url": "https://matrix.luch-kino.ru",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1700
+    "responseTimeMs": 1150
   },
   {
     "name": "luisguerrero.net",
     "url": "https://matrix.luisguerrero.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1350
+    "responseTimeMs": 1050
   },
   {
     "name": "m.edw.ai",
     "url": "https://m.edw.ai",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1000
+    "responseTimeMs": 800
   },
   {
     "name": "m.henary.de",
     "url": "https://m.henary.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 3250
+    "responseTimeMs": 2550
   },
   {
     "name": "m.modlabs.social",
     "url": "https://m.modlabs.social",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2000
+    "responseTimeMs": 1850
   },
   {
     "name": "m.obshinaru.ru",
     "url": "https://m.obshinaru.ru",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2850
+    "responseTimeMs": 2450
   },
   {
     "name": "m.spacedump.se",
     "url": "https://m.spacedump.se",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2950
+    "responseTimeMs": 2500
   },
   {
     "name": "magdeburg.jetzt",
@@ -1157,434 +1157,434 @@
       "tech"
     ],
     "status": "online",
-    "responseTimeMs": 4000
+    "responseTimeMs": 8800
   },
   {
     "name": "markla.in",
     "url": "https://matrix.markla.in",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 4150
+    "responseTimeMs": 3350
   },
   {
     "name": "mat.dobiko.net",
     "url": "https://mat.dobiko.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 500
+    "responseTimeMs": 350
   },
   {
     "name": "matrix-portal.meownas.fun",
     "url": "https://matrix-portal.meownas.fun",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1100
+    "responseTimeMs": 2300
   },
   {
     "name": "matrix.00b1.ru",
     "url": "https://matrix.00b1.ru",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1050
+    "responseTimeMs": 900
   },
   {
     "name": "matrix.0x09.de",
     "url": "https://matrix.0x09.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 950
+    "responseTimeMs": 850
   },
   {
     "name": "matrix.4development.com",
     "url": "https://matrix.4development.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 850
+    "responseTimeMs": 550
   },
   {
     "name": "matrix.abyle.org",
     "url": "https://matrix.abyle.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 950
+    "responseTimeMs": 700
   },
   {
     "name": "matrix.adviser.com",
     "url": "https://matrix.adviser.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1000
+    "responseTimeMs": 750
   },
   {
     "name": "matrix.ahmedmedia.uk",
     "url": "https://matrix.ahmedmedia.uk",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1000
+    "responseTimeMs": 750
   },
   {
     "name": "matrix.alfredolin.eu",
     "url": "https://matrix.alfredolin.eu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 1150
   },
   {
     "name": "matrix.allmende.io",
     "url": "https://matrix.allmende.io",
     "tags": [],
     "status": "offline",
-    "failCount": 3
+    "failCount": 4
   },
   {
     "name": "matrix.amvv.space",
     "url": "https://matrix.amvv.space",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1000
+    "responseTimeMs": 1050
   },
   {
     "name": "matrix.arya.dogcraft.de",
     "url": "https://matrix.arya.dogcraft.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1950
+    "responseTimeMs": 1300
   },
   {
     "name": "matrix.b0t.at",
     "url": "https://matrix.b0t.at",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1400
+    "responseTimeMs": 1550
   },
   {
     "name": "matrix.beachcom.org",
     "url": "https://matrix.beachcom.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 2000
   },
   {
     "name": "matrix.blackynet.de",
     "url": "https://matrix.blackynet.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1850
+    "responseTimeMs": 2150
   },
   {
     "name": "matrix.briannelson.dev",
     "url": "https://matrix.briannelson.dev",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 300
+    "responseTimeMs": 150
   },
   {
     "name": "matrix.broodjeoogbal.net",
     "url": "https://matrix.broodjeoogbal.net",
     "tags": [],
-    "status": "online",
-    "responseTimeMs": 450
+    "status": "offline",
+    "failCount": 1
   },
   {
     "name": "matrix.c3re.de",
     "url": "https://matrix.c3re.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 850
+    "responseTimeMs": 600
   },
   {
     "name": "matrix.cansat.duckdns.org",
     "url": "https://matrix.cansat.duckdns.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 750
+    "responseTimeMs": 450
   },
   {
     "name": "matrix.castle-homeserver.org",
     "url": "https://matrix.castle-homeserver.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1000
+    "responseTimeMs": 900
   },
   {
     "name": "matrix.cixoelectronic.pl",
     "url": "https://matrix.cixoelectronic.pl",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1100
+    "responseTimeMs": 550
   },
   {
     "name": "matrix.crowconclave.dev",
     "url": "https://matrix.crowconclave.dev",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 800
+    "responseTimeMs": 450
   },
   {
     "name": "matrix.csn.tu-chemnitz.de",
     "url": "https://matrix.csn.tu-chemnitz.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1400
+    "responseTimeMs": 900
   },
   {
     "name": "matrix.cyber4edu.org",
     "url": "https://matrix.cyber4edu.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1450
+    "responseTimeMs": 1150
   },
   {
     "name": "matrix.cycasc.net",
     "url": "https://matrix.cycasc.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2100
+    "responseTimeMs": 950
   },
   {
     "name": "matrix.delaylama.de",
     "url": "https://matrix.delaylama.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1600
+    "responseTimeMs": 950
   },
   {
     "name": "matrix.digitalworld.global",
     "url": "https://matrix.digitalworld.global",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 850
   },
   {
     "name": "matrix.dinorawrr.com",
     "url": "https://matrix.dinorawrr.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 1150
   },
   {
     "name": "matrix.dnix.de",
     "url": "https://matrix.dnix.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2250
+    "responseTimeMs": 1550
   },
   {
     "name": "matrix.dstwre.sh",
     "url": "https://matrix.dstwre.sh",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1700
+    "responseTimeMs": 1550
   },
   {
     "name": "matrix.ecsena.com",
     "url": "https://matrix.ecsena.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 350
+    "responseTimeMs": 200
   },
   {
     "name": "matrix.egonetix.de",
     "url": "https://matrix.egonetix.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 850
+    "responseTimeMs": 650
   },
   {
     "name": "matrix.enragedkodo.com",
     "url": "https://matrix.enragedkodo.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 300
+    "responseTimeMs": 250
   },
   {
     "name": "matrix.ergonaut.space",
     "url": "https://matrix.ergonaut.space",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 550
+    "responseTimeMs": 450
   },
   {
     "name": "matrix.espar.eu",
     "url": "https://matrix.espar.eu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 4600
+    "responseTimeMs": 900
   },
   {
     "name": "matrix.etersoft.ru",
     "url": "https://matrix.etersoft.ru",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2050
+    "responseTimeMs": 950
   },
   {
     "name": "matrix.etmx.dev",
     "url": "https://matrix.etmx.dev",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 600
+    "responseTimeMs": 650
   },
   {
     "name": "matrix.ezumi.xyz",
     "url": "https://matrix.ezumi.xyz",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 600
+    "responseTimeMs": 650
   },
   {
     "name": "matrix.fayedollchat.com",
     "url": "https://matrix.fayedollchat.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1000
+    "responseTimeMs": 1250
   },
   {
     "name": "matrix.flow-host.space",
     "url": "https://matrix.flow-host.space",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1400
+    "responseTimeMs": 1200
   },
   {
     "name": "matrix.freedomlab.nyc",
     "url": "https://matrix.freedomlab.nyc",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1150
   },
   {
     "name": "matrix.friendattack.eu",
     "url": "https://matrix.friendattack.eu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1150
   },
   {
     "name": "matrix.frstgear.app",
     "url": "https://matrix.frstgear.app",
     "tags": [],
-    "status": "online",
-    "responseTimeMs": 1550
+    "status": "offline",
+    "failCount": 1
   },
   {
     "name": "matrix.ganmon.org",
     "url": "https://matrix.ganmon.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1950
+    "responseTimeMs": 1350
   },
   {
     "name": "matrix.gargs.co",
     "url": "https://matrix.gargs.co",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1450
+    "responseTimeMs": 1250
   },
   {
     "name": "matrix.groet-infra.nl",
     "url": "https://matrix.groet-infra.nl",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 500
+    "responseTimeMs": 350
   },
   {
     "name": "matrix.gruppeheat.net",
     "url": "https://matrix.gruppeheat.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1000
+    "responseTimeMs": 850
   },
   {
     "name": "matrix.haringstad.com",
     "url": "https://matrix.haringstad.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 700
+    "responseTimeMs": 450
   },
   {
     "name": "matrix.hiabuto.net",
     "url": "https://matrix.hiabuto.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 850
+    "responseTimeMs": 800
   },
   {
     "name": "matrix.home-net.com.ua",
     "url": "https://matrix.home-net.com.ua",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 1150
   },
   {
     "name": "matrix.intri.cat",
     "url": "https://matrix.intri.cat",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1850
+    "responseTimeMs": 1200
   },
   {
     "name": "matrix.jeffcake.com",
     "url": "https://matrix.jeffcake.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1150
+    "responseTimeMs": 2650
   },
   {
     "name": "matrix.jester-designs.com",
     "url": "https://matrix.jester-designs.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2050
+    "responseTimeMs": 1250
   },
   {
     "name": "matrix.jones.dk",
     "url": "https://matrix.jones.dk",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2500
+    "responseTimeMs": 2000
   },
   {
     "name": "matrix.joyboycloud.xyz",
     "url": "https://matrix.joyboycloud.xyz",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1700
+    "responseTimeMs": 1750
   },
   {
     "name": "matrix.jq.mk",
     "url": "https://matrix.jq.mk",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 2200
   },
   {
     "name": "matrix.jsalex.media",
     "url": "https://matrix.jsalex.media",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2200
+    "responseTimeMs": 2150
   },
   {
     "name": "matrix.karebearqn.com",
     "url": "https://matrix.karebearqn.com",
     "tags": [],
-    "status": "online",
-    "responseTimeMs": 2100
+    "status": "offline",
+    "failCount": 1
   },
   {
     "name": "matrix.kevinronceray.com",
     "url": "https://matrix.kevinronceray.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2800
+    "responseTimeMs": 2700
   },
   {
     "name": "matrix.khajiit.de",
     "url": "https://matrix.khajiit.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 3100
+    "responseTimeMs": 3250
   },
   {
     "name": "matrix.kram.cab",
@@ -1598,98 +1598,98 @@
     "url": "https://matrix.kultwiki.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 500
+    "responseTimeMs": 400
   },
   {
     "name": "matrix.l8x.cc",
     "url": "https://matrix.l8x.cc",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 4000
+    "responseTimeMs": 650
   },
   {
     "name": "matrix.leturcq.bzh",
     "url": "https://matrix.leturcq.bzh",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1050
+    "responseTimeMs": 900
   },
   {
     "name": "matrix.lightmajenta.duckdns.org",
     "url": "https://matrix.lightmajenta.duckdns.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1300
+    "responseTimeMs": 1050
   },
   {
     "name": "matrix.linuxrocker.com",
     "url": "https://matrix.linuxrocker.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 900
+    "responseTimeMs": 800
   },
   {
     "name": "matrix.lqvrent.com",
     "url": "https://matrix.lqvrent.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1200
+    "responseTimeMs": 950
   },
   {
     "name": "matrix.luanti.ru",
     "url": "https://matrix.luanti.ru",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 1500
   },
   {
     "name": "matrix.luisental.org",
     "url": "https://matrix.luisental.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1500
+    "responseTimeMs": 1250
   },
   {
     "name": "matrix.madeindream.com",
     "url": "https://matrix.madeindream.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1800
+    "responseTimeMs": 1500
   },
   {
     "name": "matrix.manifold13.com",
     "url": "https://matrix.manifold13.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1350
+    "responseTimeMs": 1200
   },
   {
     "name": "matrix.mateocovacho.com",
     "url": "https://matrix.mateocovacho.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1850
+    "responseTimeMs": 1800
   },
   {
     "name": "matrix.matmoa.eu",
     "url": "https://matrix.matmoa.eu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1950
+    "responseTimeMs": 1750
   },
   {
     "name": "matrix.meissners.me",
     "url": "https://matrix.meissners.me",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1900
+    "responseTimeMs": 1500
   },
   {
     "name": "matrix.mfek.org",
     "url": "https://matrix.mfek.org",
     "tags": [],
-    "status": "online",
-    "responseTimeMs": 2050
+    "status": "offline",
+    "failCount": 1
   },
   {
     "name": "matrix.minz.moe",
@@ -1710,357 +1710,357 @@
     "url": "https://matrix.mjehosting.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 400
+    "responseTimeMs": 350
   },
   {
     "name": "matrix.mobile.care.dev.one4.cloud",
     "url": "https://matrix.mobile.care.dev.one4.cloud",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 600
+    "responseTimeMs": 550
   },
   {
     "name": "matrix.mpq.mpg.de",
     "url": "https://matrix.mpq.mpg.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 1300
   },
   {
     "name": "matrix.muensterhack.de",
     "url": "https://matrix.muensterhack.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1050
+    "responseTimeMs": 1150
   },
   {
     "name": "matrix.mxhdr.net",
     "url": "https://matrix.mxhdr.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 1450
   },
   {
     "name": "matrix.nave.house",
     "url": "https://matrix.nave.house",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1350
+    "responseTimeMs": 1300
   },
   {
     "name": "matrix.nbremond.net",
     "url": "https://matrix.nbremond.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2100
+    "responseTimeMs": 1450
   },
   {
     "name": "matrix.ndlug.org",
     "url": "https://matrix.ndlug.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1500
+    "responseTimeMs": 1450
   },
   {
     "name": "matrix.netzagentur.at",
     "url": "https://matrix.netzagentur.at",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1950
+    "responseTimeMs": 1700
   },
   {
     "name": "matrix.newan.net",
     "url": "https://matrix.newan.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2250
+    "responseTimeMs": 1850
   },
   {
     "name": "matrix.nightcity.lu",
     "url": "https://matrix.nightcity.lu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2350
+    "responseTimeMs": 1900
   },
   {
     "name": "matrix.numenor.pt",
     "url": "https://matrix.numenor.pt",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2350
+    "responseTimeMs": 1850
   },
   {
     "name": "matrix.nve.red",
     "url": "https://matrix.nve.red",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2500
+    "responseTimeMs": 2300
   },
   {
     "name": "matrix.nxtman96.com",
     "url": "https://matrix.nxtman96.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 400
+    "responseTimeMs": 300
   },
   {
     "name": "matrix.override.nl",
     "url": "https://matrix.override.nl",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 550
   },
   {
     "name": "matrix.persch-api.de",
     "url": "https://matrix.persch-api.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 800
+    "responseTimeMs": 550
   },
   {
     "name": "matrix.pfalz-mail.de",
     "url": "https://matrix.pfalz-mail.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1050
+    "responseTimeMs": 850
   },
   {
     "name": "matrix.pk-web.de",
     "url": "https://matrix.pk-web.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1150
+    "responseTimeMs": 800
   },
   {
     "name": "matrix.portstuck.at",
     "url": "https://matrix.portstuck.at",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 950
   },
   {
     "name": "matrix.predikant.org",
     "url": "https://matrix.predikant.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1900
+    "responseTimeMs": 1700
   },
   {
     "name": "matrix.privacymatters.cc",
     "url": "https://matrix.privacymatters.cc",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1750
+    "responseTimeMs": 1100
   },
   {
     "name": "matrix.proxima.cx",
     "url": "https://matrix.proxima.cx",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1500
+    "responseTimeMs": 900
   },
   {
     "name": "matrix.pupper.dev",
     "url": "https://matrix.pupper.dev",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2250
+    "responseTimeMs": 1300
   },
   {
     "name": "matrix.pyrosec.is",
     "url": "https://matrix.pyrosec.is",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 1300
   },
   {
     "name": "matrix.reiners.io",
     "url": "https://matrix.reiners.io",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1700
+    "responseTimeMs": 1550
   },
   {
     "name": "matrix.ronin-legacy.fr",
     "url": "https://matrix-federation.ronin-legacy.fr",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2250
+    "responseTimeMs": 1900
   },
   {
     "name": "matrix.rural-it.org",
     "url": "https://matrix.rural-it.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 4300
+    "responseTimeMs": 2100
   },
   {
     "name": "matrix.sandbox64.at",
     "url": "https://matrix.sandbox64.at",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2500
+    "responseTimeMs": 2050
   },
   {
     "name": "matrix.shadowsquad.org",
     "url": "https://matrix.shadowsquad.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 600
+    "responseTimeMs": 400
   },
   {
     "name": "matrix.shredderfood.com",
     "url": "https://matrix.shredderfood.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 300
+    "responseTimeMs": 150
   },
   {
     "name": "matrix.small-net.net",
     "url": "https://matrix.small-net.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 700
+    "responseTimeMs": 1150
   },
   {
     "name": "matrix.snct-gmbh.de",
     "url": "https://matrix.snct-gmbh.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 800
+    "responseTimeMs": 650
   },
   {
     "name": "matrix.someit.company",
     "url": "https://matrix.someit.company",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 600
+    "responseTimeMs": 400
   },
   {
     "name": "matrix.strongtownssteinbach.org",
     "url": "https://matrix.strongtownssteinbach.org",
     "tags": [],
-    "status": "online",
-    "responseTimeMs": 900
+    "status": "offline",
+    "failCount": 1
   },
   {
     "name": "matrix.studiofritzgnad.de",
     "url": "https://matrix.studiofritzgnad.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1100
+    "responseTimeMs": 900
   },
   {
     "name": "matrix.sysops.de",
     "url": "https://matrix.sysops.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1500
+    "responseTimeMs": 1100
   },
   {
     "name": "matrix.taccon.com",
     "url": "https://matrix.taccon.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1450
+    "responseTimeMs": 1100
   },
   {
     "name": "cutefunny.art",
     "url": "https://matrix.cutefunny.art",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1150
+    "responseTimeMs": 1200
   },
   {
     "name": "matrix.tailsit.com",
     "url": "https://matrix.tailsit.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1600
+    "responseTimeMs": 1350
   },
   {
     "name": "matrix.tensr.network",
     "url": "https://matrix.tensr.network",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 1200
   },
   {
     "name": "matrix.texo-it.de",
     "url": "https://matrix.texo-it.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1850
+    "responseTimeMs": 1600
   },
   {
     "name": "matrix.thebull.ru",
     "url": "https://matrix.thebull.ru",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2000
+    "responseTimeMs": 1550
   },
   {
     "name": "matrix.thepromisedlan.online",
     "url": "https://matrix.thepromisedlan.online",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1500
   },
   {
     "name": "matrix.thiemoo.at",
     "url": "https://matrix.thiemoo.at",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 600
   },
   {
     "name": "matrix.tjaardflix.de",
     "url": "https://matrix.tjaardflix.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 700
+    "responseTimeMs": 450
   },
   {
     "name": "matrix.totorocodes.fr",
     "url": "https://matrix.totorocodes.fr",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 750
+    "responseTimeMs": 600
   },
   {
     "name": "matrix.treff.top",
     "url": "https://matrix.treff.top",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1150
+    "responseTimeMs": 950
   },
   {
     "name": "matrix.viklunds.nu",
     "url": "https://matrix.viklunds.nu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1050
+    "responseTimeMs": 1000
   },
   {
     "name": "matrix.vil.systems",
     "url": "https://matrix.vil.systems",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1000
+    "responseTimeMs": 900
   },
   {
     "name": "matrix.vinpre.de",
     "url": "https://matrix.vinpre.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1100
+    "responseTimeMs": 1000
   },
   {
     "name": "matrix.voxvoltera.com",
     "url": "https://matrix.voxvoltera.com",
     "tags": [],
-    "status": "online",
-    "responseTimeMs": 1150
+    "status": "offline",
+    "failCount": 1
   },
   {
     "name": "matrix.webdevelop.pro",
@@ -2081,140 +2081,140 @@
     "url": "https://matrix.wiuma.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1850
+    "responseTimeMs": 1400
   },
   {
     "name": "matrix.wolfrevo.mywire.org",
     "url": "https://matrix.wolfrevo.mywire.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1850
+    "responseTimeMs": 1950
   },
   {
     "name": "matrix.wolhuter.co.za",
     "url": "https://matrix.wolhuter.co.za",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2650
+    "responseTimeMs": 2100
   },
   {
     "name": "matrix.wrede.ca",
     "url": "https://matrix.wrede.ca",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2000
+    "responseTimeMs": 1700
   },
   {
     "name": "matrix.wrservices.link",
     "url": "https://matrix.wrservices.link",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2250
+    "responseTimeMs": 1750
   },
   {
     "name": "matrix.xf5.eu",
     "url": "https://matrix.xf5.eu",
     "tags": [],
-    "status": "offline",
-    "failCount": 1
+    "status": "online",
+    "responseTimeMs": 500
   },
   {
     "name": "matrixbox.de",
     "url": "https://matrix.matrixbox.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 500
   },
   {
     "name": "matrixchat.dev",
     "url": "https://matrixchat.dev",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 700
+    "responseTimeMs": 550
   },
   {
     "name": "matrixwith.me",
     "url": "https://matrixwith.me",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 500
+    "responseTimeMs": 350
   },
   {
     "name": "matsch.xyz",
     "url": "https://matsch.xyz",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 750
+    "responseTimeMs": 550
   },
   {
     "name": "mckinstry.ie",
     "url": "https://mckinstry.ie",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1400
+    "responseTimeMs": 1300
   },
   {
     "name": "meant2be.me",
     "url": "https://chat.meant2be.me",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 600
+    "responseTimeMs": 450
   },
   {
     "name": "mechsploitation.org",
     "url": "https://chat.mechsploitation.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 750
+    "responseTimeMs": 800
   },
   {
     "name": "meet.inboxsys.net",
     "url": "https://meet.inboxsys.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1300
+    "responseTimeMs": 1050
   },
   {
     "name": "mesnumeriques.fr",
     "url": "https://mesnumeriques.fr",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1200
   },
   {
     "name": "mint-system.ch",
     "url": "https://matrix.mint-system.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1600
+    "responseTimeMs": 1350
   },
   {
     "name": "mistyttm.dev",
     "url": "https://mistyttm.dev",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1900
+    "responseTimeMs": 1700
   },
   {
     "name": "mrx.im",
     "url": "https://matrix.mrx.im",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1700
+    "responseTimeMs": 1800
   },
   {
     "name": "msg.senkapopka.ru",
     "url": "https://msg.senkapopka.ru",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2150
+    "responseTimeMs": 4100
   },
   {
     "name": "mtix.dev",
     "url": "https://mtix.dev",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1250
   },
   {
     "name": "mukedues.de",
@@ -2228,28 +2228,28 @@
     "url": "https://mymatrix79.xavierscave.trade",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 400
+    "responseTimeMs": 800
   },
   {
     "name": "nang.zom.im",
     "url": "https://nang.zom.im",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 600
+    "responseTimeMs": 500
   },
   {
     "name": "naumimatrix.hopto.org",
     "url": "https://naumisynapse.hopto.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 700
+    "responseTimeMs": 750
   },
   {
     "name": "nebendahl.eu",
     "url": "https://nebendahl.eu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 800
+    "responseTimeMs": 1100
   },
   {
     "name": "net.savva-balashov.me",
@@ -2263,35 +2263,35 @@
     "url": "https://matrix.netauthority.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 750
+    "responseTimeMs": 1150
   },
   {
     "name": "netz.darknight-coffee.eu",
     "url": "https://treff.darknight-coffee.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 1850
   },
   {
     "name": "netzkraefte.de",
     "url": "https://matrix.netzkraefte.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1600
   },
   {
     "name": "newtrisko.de",
     "url": "https://matrix.newtrisko.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1600
+    "responseTimeMs": 1800
   },
   {
     "name": "nixfox.ca",
     "url": "https://matrix.nixfox.ca",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1450
+    "responseTimeMs": 1600
   },
   {
     "name": "nnik.dev",
@@ -2305,7 +2305,7 @@
     "url": "https://no.dustinthe.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2050
+    "responseTimeMs": 2150
   },
   {
     "name": "nope.chat",
@@ -2314,14 +2314,14 @@
       "bridges"
     ],
     "status": "online",
-    "responseTimeMs": 2100
+    "responseTimeMs": 2050
   },
   {
     "name": "obco.pro",
     "url": "https://matrixchat.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2400
+    "responseTimeMs": 2300
   },
   {
     "name": "oblak.be",
@@ -2330,231 +2330,231 @@
       "bridges"
     ],
     "status": "online",
-    "responseTimeMs": 700
+    "responseTimeMs": 800
   },
   {
     "name": "odev.pro",
     "url": "https://asgard.odev.pro",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 550
+    "responseTimeMs": 800
   },
   {
     "name": "ohnesorge.live",
     "url": "https://ohnesorge.live",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 800
   },
   {
     "name": "okkon.ddns.net",
     "url": "https://okkon.ddns.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 500
+    "responseTimeMs": 400
   },
   {
     "name": "otterobservatory.com",
     "url": "https://matrix.otterobservatory.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 300
+    "responseTimeMs": 200
   },
   {
     "name": "parlante.de",
     "url": "https://matrix.parlante.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1150
+    "responseTimeMs": 650
   },
   {
     "name": "pcriot.org",
     "url": "https://pcriot.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 850
   },
   {
     "name": "piratenpartei.ch",
     "url": "https://matrix.piratenpartei.ch",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 700
+    "responseTimeMs": 800
   },
   {
     "name": "pockets.buzz",
     "url": "https://matrix.pockets.buzz",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 1200
   },
   {
     "name": "polkadot.builders",
     "url": "https://matrix.polkadot.builders",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1500
+    "responseTimeMs": 1450
   },
   {
     "name": "polymake.org",
     "url": "https://matrix.polymake.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1500
+    "responseTimeMs": 1750
   },
   {
     "name": "pony.cx",
     "url": "https://pony.cx",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1700
+    "responseTimeMs": 1550
   },
   {
     "name": "poweron.dk",
     "url": "https://matrix.poweron.dk",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1850
+    "responseTimeMs": 2100
   },
   {
     "name": "pramari.de",
     "url": "https://matrix.pramari.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1700
+    "responseTimeMs": 1800
   },
   {
     "name": "pravdik.dev",
     "url": "https://matrix.pravdik.dev",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1800
+    "responseTimeMs": 1900
   },
   {
     "name": "pridelands-after-dark.com",
     "url": "https://pridelands-after-dark.com",
     "tags": [],
-    "status": "online",
-    "responseTimeMs": 250
+    "status": "offline",
+    "failCount": 1
   },
   {
     "name": "Privacy-centric Matrix Homeserver",
     "url": "https://chat.privacytools.io",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1800
+    "responseTimeMs": 1450
   },
   {
     "name": "proclos.com",
     "url": "https://proclos.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 600
+    "responseTimeMs": 450
   },
   {
     "name": "progenitorfoundry.eu",
     "url": "https://matrix.progenitorfoundry.eu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 750
+    "responseTimeMs": 700
   },
   {
     "name": "pronostix.lu-cix.lu",
     "url": "https://pronostix.lu-cix.lu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 900
+    "responseTimeMs": 650
   },
   {
     "name": "Public Matrix homeserver from Russian Matrix community",
     "url": "https://ru-matrix.org",
     "tags": [],
     "status": "offline",
-    "failCount": 3
+    "failCount": 4
   },
   {
     "name": "Public Polish Matrix homeserver",
     "url": "https://junta.pl",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 3750
+    "responseTimeMs": 4000
   },
   {
     "name": "Public server for Perth, Western Australia",
     "url": "https://perthchat.org",
     "tags": [],
     "status": "offline",
-    "failCount": 3
+    "failCount": 4
   },
   {
     "name": "r4.fo",
     "url": "https://matrix.r4.fo",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1150
+    "responseTimeMs": 1050
   },
   {
     "name": "radratten.de",
     "url": "https://matrix.radratten.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1200
   },
   {
     "name": "rankenste.in",
     "url": "https://matrix.rankenste.in",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1300
+    "responseTimeMs": 1250
   },
   {
     "name": "rc.acidc0re.info",
     "url": "https://rc.acidc0re.info",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1400
+    "responseTimeMs": 1350
   },
   {
     "name": "rebru.ch",
     "url": "https://matrix.rebru.ch",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1400
   },
   {
     "name": "riot.firechicken.net",
     "url": "https://riot.firechicken.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1400
+    "responseTimeMs": 1600
   },
   {
     "name": "riot.linxx.net",
     "url": "https://riot.linxx.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1400
   },
   {
     "name": "robbinsa.me",
     "url": "https://matrix.robbinsa.me",
     "tags": [],
-    "status": "offline",
-    "failCount": 3
+    "status": "online",
+    "responseTimeMs": 250
   },
   {
     "name": "rollenspiel.chat",
     "url": "https://rollenspiel.chat",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 600
+    "responseTimeMs": 400
   },
   {
     "name": "rozekengineering.com",
     "url": "https://matrix.rozekengineering.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 300
+    "responseTimeMs": 200
   },
   {
     "name": "sabrinateenlich.win",
@@ -2568,77 +2568,77 @@
     "url": "https://matrix.sagebrushmesh.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 300
+    "responseTimeMs": 5250
   },
   {
     "name": "savemy.name",
     "url": "https://matrix.savemy.name",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 500
   },
   {
     "name": "saygex.xyz",
     "url": "https://matrix.saygex.xyz",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 800
+    "responseTimeMs": 550
   },
   {
     "name": "searchhub.vip",
     "url": "https://app.searchhub.vip",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 700
+    "responseTimeMs": 550
   },
   {
     "name": "secnd.me",
     "url": "https://matrix.secnd.me",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 750
+    "responseTimeMs": 850
   },
   {
     "name": "secure-channel.net",
     "url": "https://secure-channel.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 550
+    "responseTimeMs": 650
   },
   {
     "name": "secure-channel.net",
     "url": "https://matrix.secure-channel.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 550
+    "responseTimeMs": 650
   },
   {
     "name": "sekbaer.de",
     "url": "https://matrix.sekbaer.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1050
+    "responseTimeMs": 1100
   },
   {
     "name": "serenityos.org",
     "url": "https://serenityos.matrix.nwex.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 950
+    "responseTimeMs": 1200
   },
   {
     "name": "sergmatrix.duckdns.org",
     "url": "https://sergmatrix.duckdns.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1150
+    "responseTimeMs": 1300
   },
   {
     "name": "matrix.org",
     "url": "https://matrix.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 950
+    "responseTimeMs": 1200
   },
   {
     "name": "server.digitalesozialearbeit.de",
@@ -2652,35 +2652,35 @@
     "url": "https://server.matrix4ulm.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 600
+    "responseTimeMs": 400
   },
   {
     "name": "server2.ledsys.co.uk",
     "url": "https://server2.ledsys.co.uk",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 650
+    "responseTimeMs": 450
   },
   {
     "name": "slayer.network",
     "url": "https://matrix.slayer.network",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 700
+    "responseTimeMs": 1050
   },
   {
     "name": "snowboardtechie.com",
     "url": "https://matrix.snowboardtechie.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 250
+    "responseTimeMs": 600
   },
   {
     "name": "socialnetwork24.com",
     "url": "https://socialnetwork24.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1100
+    "responseTimeMs": 1000
   },
   {
     "name": "solidarmobil.de",
@@ -2694,14 +2694,14 @@
     "url": "https://matrix.space-bar.site",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 800
+    "responseTimeMs": 900
   },
   {
     "name": "stax.la",
     "url": "https://stax.la",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 1250
   },
   {
     "name": "stdint.com",
@@ -2722,35 +2722,35 @@
     "url": "https://matrix.sutcliffe.xyz",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 1500
   },
   {
     "name": "swisstrix.ch",
     "url": "https://swisstrix.ch",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 5600
+    "responseTimeMs": 1850
   },
   {
     "name": "synapse.jing8956.com",
     "url": "https://synapse.jing8956.com",
     "tags": [],
-    "status": "online",
-    "responseTimeMs": 1600
+    "status": "offline",
+    "failCount": 1
   },
   {
     "name": "synapse.migou.synology.me",
     "url": "https://synapse.migou.synology.me",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1500
   },
   {
     "name": "synapse.sa-chat.com",
     "url": "https://synapse.sa-chat.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 350
+    "responseTimeMs": 100
   },
   {
     "name": "synapse.sytes.net",
@@ -2764,35 +2764,35 @@
     "url": "https://synapse.the-cryptolution.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 900
+    "responseTimeMs": 700
   },
   {
     "name": "synapse.xytes.net",
     "url": "https://synapse.xytes.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 550
   },
   {
     "name": "synod.im",
     "url": "https://synod.im",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1300
+    "responseTimeMs": 850
   },
   {
     "name": "tankernn.eu",
     "url": "https://tankernn.eu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1050
+    "responseTimeMs": 900
   },
   {
     "name": "tavrezsi.hu",
     "url": "https://matrix.tavrezsi.hu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1300
+    "responseTimeMs": 2700
   },
   {
     "name": "tchncs.de",
@@ -2801,70 +2801,70 @@
       "bridges"
     ],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1250
   },
   {
     "name": "tea-cats.co.uk",
     "url": "https://tea-cats.co.uk",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1750
+    "responseTimeMs": 1500
   },
   {
     "name": "tedomum.net",
     "url": "https://matrix.tedomum.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1800
+    "responseTimeMs": 1600
   },
   {
     "name": "tejat.net",
     "url": "https://matrix.tejat.net",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 5650
+    "responseTimeMs": 5800
   },
   {
     "name": "teraz.site",
     "url": "https://teraz.site",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1800
+    "responseTimeMs": 2750
   },
   {
     "name": "test.mxcore.ru",
     "url": "https://test.mxcore.ru",
     "tags": [],
-    "status": "online",
-    "responseTimeMs": 2150
+    "status": "offline",
+    "failCount": 1
   },
   {
     "name": "the-b.org",
     "url": "https://matrix.the-b.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2350
+    "responseTimeMs": 3400
   },
   {
     "name": "thedagora.social",
     "url": "https://thedagora.social",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 2850
+    "responseTimeMs": 3250
   },
   {
     "name": "theflarf.com",
     "url": "https://theflarf.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 300
+    "responseTimeMs": 100
   },
   {
     "name": "therisingeagle.info",
     "url": "https://chat.therisingeagle.info",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 450
+    "responseTimeMs": 300
   },
   {
     "name": "thundercleess.org",
@@ -2878,111 +2878,111 @@
     "url": "https://matrix.tok2.me",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 800
+    "responseTimeMs": 700
   },
   {
     "name": "toucaenroller.fr",
     "url": "https://matrix.toucaenroller.fr",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 900
+    "responseTimeMs": 1050
   },
   {
     "name": "typelias.dev",
     "url": "https://matrix.typelias.dev",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1100
+    "responseTimeMs": 1050
   },
   {
     "name": "unredacted.org",
     "url": "https://matrix.unredacted.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1150
+    "responseTimeMs": 1300
   },
   {
     "name": "virtuallyinsane.me",
     "url": "https://chat.virtuallyinsane.me",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1150
+    "responseTimeMs": 1100
   },
   {
     "name": "wachzwang.de",
     "url": "https://matrix.wachzwang.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1250
+    "responseTimeMs": 1300
   },
   {
     "name": "we2.ee",
     "url": "https://we2.ee",
     "tags": [],
     "status": "offline",
-    "failCount": 3
+    "failCount": 4
   },
   {
     "name": "web3.foundation",
     "url": "https://matrix.web3.foundation",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1550
+    "responseTimeMs": 1750
   },
   {
     "name": "wilywidgets.com",
     "url": "https://wilywidgets.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1100
+    "responseTimeMs": 1250
   },
   {
     "name": "wolke7.freeit247.eu",
     "url": "https://matrix.wolke7.freeit247.eu",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1650
+    "responseTimeMs": 1800
   },
   {
     "name": "worldethicaldataforum.org",
     "url": "https://matrix.worldethicaldataforum.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1500
+    "responseTimeMs": 1900
   },
   {
     "name": "wrycn.cloud",
     "url": "https://matrix.wrycn.cloud",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1200
+    "responseTimeMs": 1550
   },
   {
     "name": "x3f200c.hopto.org",
     "url": "https://x3f200c.hopto.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 500
+    "responseTimeMs": 300
   },
   {
     "name": "xradeon.com",
     "url": "https://matrix.xradeon.com",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 250
+    "responseTimeMs": 350
   },
   {
     "name": "Yet another tchncs.de service",
     "url": "https://tchncs.de",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 1400
+    "responseTimeMs": 650
   },
   {
     "name": "yonse.org",
     "url": "https://matrix.yonse.org",
     "tags": [],
     "status": "online",
-    "responseTimeMs": 550
+    "responseTimeMs": 700
   }
 ]
